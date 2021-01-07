@@ -1,0 +1,5 @@
+/.idea/*
+/.idea
+/target
+/.swagger-codegen-ignore
+/.swagger-codegen
